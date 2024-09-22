@@ -133,11 +133,6 @@ Open with live server
   npm run start
 ```
 
-
-## Authors
-
-- [@codewithsadee](https://www.github.com/codewithsadee)
-
 ## License
 
 This project is distributed under the GNU General Public License (GPL). You can find the full text of the license in the [LICENSE](https://github.com/omar-mazen/weatherio/blob/main/LICENSE) file.
