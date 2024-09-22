@@ -135,4 +135,4 @@ Open with live server
 
 ## License
 
-This project is distributed under the GNU General Public License (GPL). You can find the full text of the license in the [LICENSE]https://github.com/RonitJariwala/Weatherio/blob/main/LICENSE) file.
+This project is distributed under the GNU General Public License (GPL). You can find the full text of the license in the [LICENSE](https://github.com/RonitJariwala/Weatherio/blob/main/LICENSE) file.
