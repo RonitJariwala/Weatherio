@@ -105,22 +105,6 @@ The `route.js` file manages the application's routing system. It defines routes 
 
 ## Screenshots
 
-### iPhone SE
-![iPhone SE](/screenshots/iPhoneSE.png)
-
-### iPad Mini
-![iPad Mini](/screenshots/iPadMini.png)
-
-### iPad Pro
-![iPad Pro](/screenshots/iPadPro.png)
-
-### 1024x768 Resolution
-![1024x768](/screenshots/1024x768.png)
-
-### 1280x1024 Resolution
-![1280x1024](/screenshots/1280x1024.png)
-
-### 1600x1200 Resolution
 ![1600x1200](/screenshots/1600x1200.png)
 
 ## Contributing
