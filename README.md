@@ -1,5 +1,5 @@
 # Weatherio Website Documentation
-![1600x1200](/screenshots/1600x1200.png)
+![1600x1200](assets/images/Screenshots/Screenshot (239).png)
 [Weatherio](https://omar-mazen.github.io/weatherio/)
 ## Introduction
 
