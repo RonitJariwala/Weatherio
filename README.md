@@ -106,6 +106,7 @@ The `route.js` file manages the application's routing system. It defines routes 
 ## Screenshots
 
 ![App Screenshot](https://github.com/RonitJariwala/Weatherio/blob/01010b67a7028968be61cc84b758d811d2e182cf/assets/images/Screenshots/Screenshot%20(240).png)
+https://github.com/RonitJariwala/Weatherio/blob/9fde388b894ff841141a144dc777ffbf39fb7151/assets/images/Screenshots/Screenshot%20(241).png
 
 ## Run Locally
 
