@@ -105,27 +105,38 @@ The `route.js` file manages the application's routing system. It defines routes 
 
 ## Screenshots
 
-### iPhone SE
-![iPhone SE](/screenshots/iPhoneSE.png)
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
-### iPad Mini
-![iPad Mini](/screenshots/iPadMini.png)
+## Run Locally
 
-### iPad Pro
-![iPad Pro](/screenshots/iPadPro.png)
+Clone the project
 
-### 1024x768 Resolution
-![1024x768](/screenshots/1024x768.png)
+```bash
+  git clone https://link-to-project
+```
 
-### 1280x1024 Resolution
-![1280x1024](/screenshots/1280x1024.png)
+Go to the project directory
 
-### 1600x1200 Resolution
-![1600x1200](/screenshots/1600x1200.png)
+```bash
+  cd my-project
+```
 
-## Contributing
+Open with VSCode
 
-We welcome contributions to enhance the project! If you find any issues or have ideas for improvements, please don't hesitate to report them through GitHub issues. You can also suggest enhancements or submit pull requests to help make this project even better.
+```bash
+  code .
+```
+
+Open with live server
+
+```bash
+  npm run start
+```
+
+
+## Authors
+
+- [@codewithsadee](https://www.github.com/codewithsadee)
 
 ## License
 
